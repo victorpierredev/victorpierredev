@@ -1,4 +1,4 @@
-# vpakg
+# VPAKG
 
 Hi, My name is Victor Pierre and here is a few things about me:
 
