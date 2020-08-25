@@ -1,6 +1,6 @@
 # VPAKG
 
-Hi, My name is Victor Pierre and here is a few things about me:
+Hi, My name is Victor Pierre and here are a few things about me:
 
 - 🇨🇦 I currently live somewere in Canada.
 - ⚡️ I work for Lightspeed POS as a Software Engineer.
