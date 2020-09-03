@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Victor Pierre</h1>
 <h3 align="center">A passionate backend developer living in Canada 🇨🇦</h3>
 
-- I work for <a href="https://www.lightspeedhq.com"><img src="https://cdn.worldvectorlogo.com/logos/lightspeed.svg" alt="lightspeed" height="20"/></a> as a Software Engineer on the Payments team 💵.
-- 🖥 My personal website is https://vpakg.com
-- 👨🏻‍💻 I'm especialized in building backend for web and mobile applications.
-- 🐘 My main current tech stack consist of `PHP`, `MySQL`, `Docker`, `Bash` and occasionally `Go`.
+- I work at <a href="https://www.lightspeedhq.com"><img src="https://cdn.worldvectorlogo.com/logos/lightspeed.svg" alt="lightspeed" height="20"/></a> as a Software Engineer on the Payments team 💵.
+- 🖥 My website is https://vpakg.com
+- 👨🏻‍💻 I'm specialized in building the backend for web and mobile applications.
+- 🐘 My main current tech stack consists of `PHP`, `MySQL`, `Docker`, `Bash` and occasionally `Go`.
 - 👨🏻‍⚖️ I also have a Bachelor of Law degree.
 
 ----
