@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Pierre</h1>
 <h3 align="center">A passionate backend developer living in Canada 🇨🇦</h3>
 
-- I work at <a href="https://unity.com/"><img src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="Unity technologies" height="20"/></a> as a Software Engineer. 
-- Formally at <a href="https://www.lightspeedhq.com"><img src="https://cdn.worldvectorlogo.com/logos/lightspeed.svg" alt="lightspeed" height="20"/></a> with the Payments Team 💵.
+- I work at <a href="https://unity.com/"><img src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="Unity Technologies" height="18"/></a> as a Backend Software Engineer. Formally at <a href="https://www.lightspeedhq.com"><img src="https://cdn.worldvectorlogo.com/logos/lightspeed.svg" alt="lightspeed" height="18"/></a>
 - 🖥 My website is https://vpakg.com
 - 👨🏻‍💻 I'm specialized in building the backend for web and mobile applications.
 - 🐘 My main current tech stack consists of `PHP`, `MySQL`, `Docker`, `Bash` and occasionally `Go`.
@@ -17,7 +16,7 @@
 
 ----
 <p align="left">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
    <img src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" alt="PHPStorm" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
