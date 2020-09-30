@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Victor Pierre</h1>
 <h3 align="center">A passionate backend developer living in Canada 🇨🇦</h3>
 
-- I work at <a href="https://www.lightspeedhq.com"><img src="https://cdn.worldvectorlogo.com/logos/lightspeed.svg" alt="lightspeed" height="20"/></a> as a Software Engineer on the Payments team 💵.
+- I work at <a href="https://unity.com/"><img src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="Unity technologies" height="20"/></a> as a Software Engineer. 
+- Formally at <a href="https://www.lightspeedhq.com"><img src="https://cdn.worldvectorlogo.com/logos/lightspeed.svg" alt="lightspeed" height="20"/></a> with the Payments Team 💵.
 - 🖥 My website is https://vpakg.com
 - 👨🏻‍💻 I'm specialized in building the backend for web and mobile applications.
 - 🐘 My main current tech stack consists of `PHP`, `MySQL`, `Docker`, `Bash` and occasionally `Go`.
 - 👨🏻‍⚖️ I also have a Bachelor of Law degree.
+
+<a href="https://github.com/vpakg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vpakg&count_private=true" /> 
+</a>
+<a href="https://github.com/vpakg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpakg" />
+</a>
 
 ----
 <p align="left">
