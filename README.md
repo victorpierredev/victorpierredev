@@ -4,5 +4,4 @@
 - I work as a Backend Software Engineer.
 - 🖥 My website is https://vpakg.com
 - 👨🏻‍💻 I'm specialized in building the backend for web and mobile applications.
-- 🐘 My main current tech stack consists of `PHP`, `MySQL`, `Docker`, `Bash` and occasionally `Go` & `React`.
 - 👨🏻‍⚖️ I also have a Bachelor of Law degree.
