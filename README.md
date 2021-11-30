@@ -6,7 +6,9 @@
 - 👨🏻‍💻 I'm specialized in building the backend for web and mobile applications.
 - 👨🏻‍⚖️ I also have a Bachelor of Law degree.
 
-### 📝 My recent blog posts
+---
+
+### 📝 My most recent blog posts
 
 - [An introduction to Protocol Buffers 3](https://vpakg.com/articles/introduction-to-protobuf/) (6 months ago)
 - [Five useful terminal tools for Developers](https://vpakg.com/articles/five-great-terminal-tools/) (1 year ago)
