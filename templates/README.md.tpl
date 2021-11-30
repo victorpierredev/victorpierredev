@@ -6,7 +6,9 @@
 - 👨🏻‍💻 I'm specialized in building the backend for web and mobile applications.
 - 👨🏻‍⚖️ I also have a Bachelor of Law degree.
 
-### 📝 My recent blog posts
-{{range rss "https://vpakg.com/articles/index.xml" 4}}
+---
+
+### 📝 My most recent blog posts
+{{range rss "https://vpakg.com/articles/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
