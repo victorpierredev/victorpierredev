@@ -10,5 +10,5 @@
 
 ### 📝 My most recent blog posts
 
-- [An introduction to Protocol Buffers 3](https://vpakg.com/articles/introduction-to-protobuf/) (7 months ago)
-- [Five useful terminal tools for Developers](https://vpakg.com/articles/five-great-terminal-tools/) (1 year ago)
+- [An introduction to Protocol Buffers 3](/articles/introduction-to-protobuf/) (7 months ago)
+- [Five useful terminal tools for Developers](/articles/five-great-terminal-tools/) (1 year ago)
