@@ -11,5 +11,5 @@
 ### 📝 My most recent blog posts
 
 - [End-to-End tests with Venom](https://victorpierre.dev/articles/e2e-tests-with-venom/) (10 months ago)
-- [An introduction to Protocol Buffers 3](https://victorpierre.dev/articles/introduction-to-protobuf/) (1 year ago)
+- [An introduction to Protocol Buffers 3](https://victorpierre.dev/articles/introduction-to-protobuf/) (2 years ago)
 - [Five useful terminal tools for Developers](https://victorpierre.dev/articles/five-great-terminal-tools/) (2 years ago)
