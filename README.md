@@ -10,7 +10,7 @@
 
 ### 📝 My most recent blog posts
 
-- [Understanding Zero Values in Go](https://victorpierre.dev/articles/zero-values-in-go/) (6 days ago)
+- [Understanding Zero Values in Go](https://victorpierre.dev/articles/zero-values-in-go/) (1 week ago)
 - [Scaping the internet&#39;s walled gardens](https://victorpierre.dev/articles/scaping-internet-walled-gardens/) (4 months ago)
 - [How I organize (most of) my Go microservices](https://victorpierre.dev/articles/my-go-project-organization/) (5 months ago)
 - [End-to-End tests with Venom](https://victorpierre.dev/articles/e2e-tests-with-venom/) (1 year ago)
