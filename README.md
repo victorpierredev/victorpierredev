@@ -10,7 +10,7 @@
 
 ### 📝 My most recent blog posts
 
-- [SemVer Explained - A Primer for the Uninitiated](https://victorpierre.dev/articles/semver-for-the-uninitiated/) (today)
+- [SemVer Explained - A Primer for the Uninitiated](https://victorpierre.dev/articles/semver-for-the-uninitiated/) (1 day ago)
 - [Understanding Zero Values in Go](https://victorpierre.dev/articles/zero-values-in-go/) (2 months ago)
 - [Scaping the internet&#39;s walled gardens](https://victorpierre.dev/articles/scaping-internet-walled-gardens/) (6 months ago)
 - [How I organize (most of) my Go microservices](https://victorpierre.dev/articles/my-go-project-organization/) (8 months ago)
