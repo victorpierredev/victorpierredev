@@ -13,5 +13,5 @@
 - [SemVer Explained - A Primer for the Uninitiated](https://victorpierre.dev/articles/semver-for-the-uninitiated/) (3 months ago)
 - [Understanding Zero Values in Go](https://victorpierre.dev/articles/zero-values-in-go/) (6 months ago)
 - [Scaping the internet&#39;s walled gardens](https://victorpierre.dev/articles/scaping-internet-walled-gardens/) (10 months ago)
-- [How I organize (most of) my Go microservices](https://victorpierre.dev/articles/my-go-project-organization/) (11 months ago)
+- [How I organize (most of) my Go microservices](https://victorpierre.dev/articles/my-go-project-organization/) (1 year ago)
 - [End-to-End tests with Venom](https://victorpierre.dev/articles/e2e-tests-with-venom/) (2 years ago)
