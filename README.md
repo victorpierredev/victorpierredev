@@ -10,7 +10,7 @@
 
 ### 📝 My most recent blog posts
 
-- [Go Interfaces: Five Best-Practices for Enhanced Code Maintainability](https://victorpierre.dev/articles/go-interface-best-practices/) (4 days ago)
+- [Go Interfaces: Five Best-Practices for Enhanced Code Maintainability](https://victorpierre.dev/articles/go-interface-best-practices/) (5 days ago)
 - [Implementing multiple HTTP Clients with Decorator Pattern in Go](https://victorpierre.dev/articles/decorator-pattern-in-go/) (2 weeks ago)
 - [SemVer Explained - A Primer for the Uninitiated](https://victorpierre.dev/articles/semver-for-the-uninitiated/) (5 months ago)
 - [Understanding Zero Values in Go](https://victorpierre.dev/articles/zero-values-in-go/) (8 months ago)
