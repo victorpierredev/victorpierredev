@@ -10,8 +10,8 @@
 
 ### 📝 My most recent blog posts
 
-- [Hasten Slowly in Software Development](https://victorpierre.dev/articles/festina-lente/) (2 days ago)
-- [Go Interfaces: Five Best-Practices for Enhanced Code Maintainability](https://victorpierre.dev/articles/go-interface-best-practices/) (1 week ago)
+- [Hasten Slowly in Software Development](https://victorpierre.dev/articles/festina-lente/) (3 days ago)
+- [Go Interfaces: Five Best-Practices for Enhanced Code Maintainability](https://victorpierre.dev/articles/go-interface-best-practices/) (2 weeks ago)
 - [Implementing multiple HTTP Clients with Decorator Pattern in Go](https://victorpierre.dev/articles/decorator-pattern-in-go/) (3 weeks ago)
 - [A Beginner&#39;s Guide to Semantic Versioning](https://victorpierre.dev/articles/beginners-guide-semantic-versioning/) (5 months ago)
 - [Understanding Zero Values in Go](https://victorpierre.dev/articles/zero-values-in-go/) (8 months ago)
