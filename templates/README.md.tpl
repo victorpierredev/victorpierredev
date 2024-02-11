@@ -9,6 +9,6 @@
 ---
 
 ### 📝 My most recent blog posts
-{{range rss "https://victorpierre.dev/articles/index.xml" 5}}
+{{range rss "https://victorpierre.dev/blog/index.xml" 5}}
 - [{{.Title}}](https://victorpierre.dev{{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
