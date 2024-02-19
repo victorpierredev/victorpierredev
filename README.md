@@ -10,8 +10,8 @@
 
 ### 📝 My most recent blog posts
 
-- [Resilience and Mental health in turbulent times](https://victorpierre.devhttps://victorpierre.dev/blog/mental-health/) (2 days ago)
-- [Hasten Slowly in Software Development](https://victorpierre.devhttps://victorpierre.dev/blog/festina-lente/) (1 month ago)
-- [Go Interfaces: Five Best-Practices for Enhanced Code Maintainability](https://victorpierre.devhttps://victorpierre.dev/blog/five-go-interfaces-best-practices/) (2 months ago)
-- [Implementing multiple HTTP Clients with Decorator Pattern in Go](https://victorpierre.devhttps://victorpierre.dev/blog/decorator-pattern-in-go/) (2 months ago)
-- [A Beginner&#39;s Guide to Semantic Versioning](https://victorpierre.devhttps://victorpierre.dev/blog/beginners-guide-semantic-versioning/) (7 months ago)
+- [Resilience and Mental health in turbulent times](https://victorpierre.dev/blog/mental-health/) (2 days ago)
+- [Hasten Slowly in Software Development](https://victorpierre.dev/blog/festina-lente/) (1 month ago)
+- [Go Interfaces: Five Best-Practices for Enhanced Code Maintainability](https://victorpierre.dev/blog/five-go-interfaces-best-practices/) (2 months ago)
+- [Implementing multiple HTTP Clients with Decorator Pattern in Go](https://victorpierre.dev/blog/decorator-pattern-in-go/) (2 months ago)
+- [A Beginner&#39;s Guide to Semantic Versioning](https://victorpierre.dev/blog/beginners-guide-semantic-versioning/) (7 months ago)
