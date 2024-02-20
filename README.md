@@ -15,3 +15,8 @@
 - [Go Interfaces: Five Best-Practices for Enhanced Code Maintainability](https://victorpierre.dev/blog/five-go-interfaces-best-practices/) (2 months ago)
 - [Implementing multiple HTTP Clients with Decorator Pattern in Go](https://victorpierre.dev/blog/decorator-pattern-in-go/) (2 months ago)
 - [A Beginner&#39;s Guide to Semantic Versioning](https://victorpierre.dev/blog/beginners-guide-semantic-versioning/) (7 months ago)
+
+---
+
+### 📚 Learnings
+I openly share my [learning notes here](https://victorpierre.dev/learning/), with the hope that you find them just as useful. 🙇🏻
