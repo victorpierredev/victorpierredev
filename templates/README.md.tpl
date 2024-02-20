@@ -12,3 +12,8 @@
 {{range rss "https://victorpierre.dev/blog/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
+
+---
+
+### 📚 Learnings
+I openly share my [learning notes here](https://victorpierre.dev/learning/), with the hope that you find them just as useful. 🙇🏻
