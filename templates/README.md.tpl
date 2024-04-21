@@ -18,7 +18,7 @@
 ### 📚 Learnings
 I openly share my [learning notes here](https://victorpierre.dev/learning/), with the hope that you find them just as useful. 🙇🏻
 
---- 
+<!-- --- 
 
 ## 📈 Github Stats
 
@@ -29,3 +29,4 @@ I openly share my [learning notes here](https://victorpierre.dev/learning/), wit
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/victorpierredev/victorpierredev/output-3d-contrib/day.svg" />
 	</picture>
 </p>
+ -->
