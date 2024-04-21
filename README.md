@@ -3,7 +3,7 @@
 
 - I work as a Backend Software Engineer.
 - 🖥 My website is https://victorpierre.dev
-- 👨🏻‍💻 I'm specialized in building the backend for web and mobile applications.
+- 👨🏻‍💻 I specialize in building the backend cloud-native applications
 - 👨🏻‍⚖️ I also have a Bachelor of Law degree.
 
 ---
@@ -20,3 +20,15 @@
 
 ### 📚 Learnings
 I openly share my [learning notes here](https://victorpierre.dev/learning/), with the hope that you find them just as useful. 🙇🏻
+
+--- 
+
+## 📈 Github Stats
+
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/victorpierredev/victorpierredev/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorpierredev/victorpierredev/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/victorpierredev/victorpierredev/output-3d-contrib/day.svg" />
+	</picture>
+</p>
