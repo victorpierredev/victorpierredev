@@ -3,7 +3,7 @@
 
 - I work as a Backend Software Engineer.
 - 🖥 My website is https://victorpierre.dev
-- 👨🏻‍💻 I'm specialize in building the backend cloud-native applications
+- 👨🏻‍💻 I specialize in building the backend cloud-native applications
 - 👨🏻‍⚖️ I also have a Bachelor of Law degree.
 
 ---
