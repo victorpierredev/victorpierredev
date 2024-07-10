@@ -28,9 +28,6 @@ I openly share my [learning notes here](https://victorpierre.dev/learning/), hop
   - [Symmetric keys](https://victorpierre.dev/learning/security/cryptography/symmetric-keys/)
   - [Asymmetric keys](https://victorpierre.dev/learning/security/cryptography/asymmetric-keys/)
   - [Authentication](https://victorpierre.dev/learning/security/authentication/)
-    - [SAML 2.0](https://victorpierre.dev/learning/security/authentication/saml/)
-    - [OpenID Connect](https://victorpierre.dev/learning/security/authentication/oidc/)
-    - [PassKey](https://victorpierre.dev/learning/security/authentication/passkey/)
 
 <!-- --- 
 
