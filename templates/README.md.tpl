@@ -21,6 +21,7 @@ I openly share my [learning notes here](https://victorpierre.dev/learning/), hop
 - [Programming](https://victorpierre.dev/learning/programming/)
   - [Data Structures](https://victorpierre.dev/learning/programming/data-structures/)
   - [Go](https://victorpierre.dev/learning/programming/go/)
+  - [Python](https://victorpierre.dev/learning/programming/python/)
   - [Caching](https://victorpierre.dev/learning/programming/caching/)
 - [Metrics and Monitoring](https://victorpierre.dev/learning/metrics/)
   - [Prometheus](https://victorpierre.dev/learning/metrics/prometheus/)
