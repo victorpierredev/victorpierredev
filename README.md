@@ -10,7 +10,7 @@
 
 ### 📝 My most recent blog posts
 
-- [Reproducible macOS Configurations with Nix](https://victorpierre.dev/blog/declarative-macos-configurations-with-nix/) (4 days ago)
+- [Reproducible macOS Configurations with Nix](https://victorpierre.dev/blog/declarative-macos-configurations-with-nix/) (5 days ago)
 - [User-centric feature design](https://victorpierre.dev/blog/user-centric-feature-design/) (1 month ago)
 - [Resilience and Mental Wellness in Uncertain Times](https://victorpierre.dev/blog/mental-health/) (4 months ago)
 - [Hasten Slowly in Software Development](https://victorpierre.dev/blog/festina-lente/) (6 months ago)
