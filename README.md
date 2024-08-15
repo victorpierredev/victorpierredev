@@ -12,7 +12,7 @@
 
 - [Reproducible macOS Configurations with Nix](https://victorpierre.dev/blog/declarative-macos-configurations-with-nix/) (1 month ago)
 - [User-centric feature design](https://victorpierre.dev/blog/user-centric-feature-design/) (2 months ago)
-- [Resilience and Mental Wellness in Uncertain Times](https://victorpierre.dev/blog/mental-health/) (5 months ago)
+- [Resilience and Mental Wellness in Uncertain Times](https://victorpierre.dev/blog/mental-health/) (6 months ago)
 - [Hasten Slowly in Software Development](https://victorpierre.dev/blog/festina-lente/) (7 months ago)
 - [Go Interfaces: Five Best-Practices for Enhanced Code Maintainability](https://victorpierre.dev/blog/five-go-interfaces-best-practices/) (8 months ago)
 
