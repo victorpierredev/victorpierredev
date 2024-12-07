@@ -14,7 +14,7 @@
 - [User-centric feature design](https://victorpierre.dev/blog/user-centric-feature-design/) (6 months ago)
 - [Resilience and Mental Wellness in Uncertain Times](https://victorpierre.dev/blog/mental-health/) (9 months ago)
 - [Hasten Slowly in Software Development](https://victorpierre.dev/blog/festina-lente/) (11 months ago)
-- [Go Interfaces: Five Best-Practices for Enhanced Code Maintainability](https://victorpierre.dev/blog/five-go-interfaces-best-practices/) (11 months ago)
+- [Go Interfaces: Five Best-Practices for Enhanced Code Maintainability](https://victorpierre.dev/blog/five-go-interfaces-best-practices/) (1 year ago)
 
 ---
 
