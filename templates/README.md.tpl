@@ -23,6 +23,8 @@ I openly share my [learning notes here](https://victorpierre.dev/learning/), hop
   - [Go](https://victorpierre.dev/learning/programming/go/)
   - [Python](https://victorpierre.dev/learning/programming/python/)
   - [Caching](https://victorpierre.dev/learning/programming/caching/)
+- [Infrastructure](https://victorpierre.dev/learning/infrastructure/)
+  - [Kubernetes](https://victorpierre.dev/learning/infrastructure/kubernetes/)
 - [Metrics and Monitoring](https://victorpierre.dev/learning/metrics/)
   - [Prometheus](https://victorpierre.dev/learning/metrics/prometheus/)
 - [Security](https://victorpierre.dev/learning/security/)
