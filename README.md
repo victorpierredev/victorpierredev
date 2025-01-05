@@ -10,8 +10,8 @@
 
 ### 📝 My most recent blog posts
 
-- [2024 - Retrospective](https://victorpierre.dev/blog/2024-retrospective/) (3 days ago)
-- [Reproducible macOS Configurations with Nix](https://victorpierre.dev/blog/declarative-macos-configurations-with-nix/) (5 months ago)
+- [2024 - Retrospective](https://victorpierre.dev/blog/2024-retrospective/) (4 days ago)
+- [Reproducible macOS Configurations with Nix](https://victorpierre.dev/blog/declarative-macos-configurations-with-nix/) (6 months ago)
 - [User-centric feature design](https://victorpierre.dev/blog/user-centric-feature-design/) (7 months ago)
 - [Resilience and Mental Wellness in Uncertain Times](https://victorpierre.dev/blog/mental-health/) (10 months ago)
 - [Hasten Slowly in Software Development](https://victorpierre.dev/blog/festina-lente/) (1 year ago)
