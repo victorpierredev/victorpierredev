@@ -27,6 +27,7 @@ I openly share my [learning notes here](https://victorpierre.dev/learning/), hop
   - [Kubernetes](https://victorpierre.dev/learning/infrastructure/kubernetes/)
 - [Metrics and Monitoring](https://victorpierre.dev/learning/metrics/)
   - [Prometheus](https://victorpierre.dev/learning/metrics/prometheus/)
+  - [Grafana](https://victorpierre.dev/learning/metrics/grafana/)
 - [Security](https://victorpierre.dev/learning/security/)
   - [Symmetric keys](https://victorpierre.dev/learning/security/cryptography/symmetric-keys/)
   - [Asymmetric keys](https://victorpierre.dev/learning/security/cryptography/asymmetric-keys/)
