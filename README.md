@@ -12,7 +12,7 @@
 
 - [Stacked git branches with git-spice](https://victorpierre.dev/blog/git-spice/) (4 weeks ago)
 - [2024 - Retrospective](https://victorpierre.dev/blog/2024-retrospective/) (6 months ago)
-- [Reproducible macOS Configurations with Nix](https://victorpierre.dev/blog/declarative-macos-configurations-with-nix/) (11 months ago)
+- [Reproducible macOS Configurations with Nix](https://victorpierre.dev/blog/declarative-macos-configurations-with-nix/) (1 year ago)
 - [User-centric feature design](https://victorpierre.dev/blog/user-centric-feature-design/) (1 year ago)
 - [Resilience and Mental Wellness in Uncertain Times](https://victorpierre.dev/blog/mental-health/) (1 year ago)
 
