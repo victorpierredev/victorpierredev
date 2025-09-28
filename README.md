@@ -11,7 +11,7 @@
 ### 📝 My most recent blog posts
 
 - [Stacked git branches with git-spice](http://localhost:1313/blog/git-spice/) (3 months ago)
-- [2024 - Retrospective](http://localhost:1313/blog/2024-retrospective/) (8 months ago)
+- [2024 - Retrospective](http://localhost:1313/blog/2024-retrospective/) (9 months ago)
 - [Reproducible macOS Configurations with Nix](http://localhost:1313/blog/declarative-macos-configurations-with-nix/) (1 year ago)
 - [User-centric feature design](http://localhost:1313/blog/user-centric-feature-design/) (1 year ago)
 - [Resilience and Mental Wellness in Uncertain Times](http://localhost:1313/blog/mental-health/) (2 years ago)
