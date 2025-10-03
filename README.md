@@ -10,7 +10,7 @@
 
 ### 📝 My most recent blog posts
 
-- [Stacked git branches with git-spice](http://localhost:1313/blog/git-spice/) (3 months ago)
+- [Stacked git branches with git-spice](http://localhost:1313/blog/git-spice/) (4 months ago)
 - [2024 - Retrospective](http://localhost:1313/blog/2024-retrospective/) (9 months ago)
 - [Reproducible macOS Configurations with Nix](http://localhost:1313/blog/declarative-macos-configurations-with-nix/) (1 year ago)
 - [User-centric feature design](http://localhost:1313/blog/user-centric-feature-design/) (1 year ago)
