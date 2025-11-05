@@ -10,7 +10,7 @@
 
 ### 📝 My most recent blog posts
 
-- [Distributed Tracing in Go](https://victorpierre.dev/blog/distributed-tracing-in-go/) (3 weeks ago)
+- [Distributed Tracing in Go](https://victorpierre.dev/blog/distributed-tracing-in-go/) (4 weeks ago)
 - [Stacked git branches with git-spice](https://victorpierre.dev/blog/git-spice/) (5 months ago)
 - [2024 - Retrospective](https://victorpierre.dev/blog/2024-retrospective/) (10 months ago)
 - [Reproducible macOS Configurations with Nix](https://victorpierre.dev/blog/declarative-macos-configurations-with-nix/) (1 year ago)
