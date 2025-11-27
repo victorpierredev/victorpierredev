@@ -26,6 +26,7 @@ I openly share my [learning notes here](https://victorpierre.dev/learning/), hop
   - [Go](https://victorpierre.dev/learning/programming/go/)
   - [Python](https://victorpierre.dev/learning/programming/python/)
   - [Caching](https://victorpierre.dev/learning/programming/caching/)
+  - [Programming Patterns](https://victorpierre.dev/learning/programming/patterns/)
 - [Infrastructure](https://victorpierre.dev/learning/infrastructure/)
   - [Kubernetes](https://victorpierre.dev/learning/infrastructure/kubernetes/)
 - [Metrics and Monitoring](https://victorpierre.dev/learning/metrics/)
