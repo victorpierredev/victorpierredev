@@ -14,7 +14,7 @@
 - [Distributed Tracing in Go](https://victorpierre.dev/blog/distributed-tracing-in-go/) (2 months ago)
 - [Stacked git branches with git-spice](https://victorpierre.dev/blog/git-spice/) (6 months ago)
 - [2024 - Retrospective](https://victorpierre.dev/blog/2024-retrospective/) (1 year ago)
-- [Reproducible macOS Configurations with Nix](https://victorpierre.dev/blog/declarative-macos-configurations-with-nix/) (1 year ago)
+- [Reproducible macOS Configurations with Nix](https://victorpierre.dev/blog/declarative-macos-configurations-with-nix/) (2 years ago)
 
 ---
 
