@@ -11,7 +11,7 @@
 ### 📝 My most recent blog posts
 
 - [2025 - Retrospective](https://victorpierre.dev/blog/2025-retrospective/) (2 weeks ago)
-- [Distributed Tracing in Go](https://victorpierre.dev/blog/distributed-tracing-in-go/) (2 months ago)
+- [Distributed Tracing in Go](https://victorpierre.dev/blog/distributed-tracing-in-go/) (3 months ago)
 - [Stacked git branches with git-spice](https://victorpierre.dev/blog/git-spice/) (7 months ago)
 - [2024 - Retrospective](https://victorpierre.dev/blog/2024-retrospective/) (1 year ago)
 - [Reproducible macOS Configurations with Nix](https://victorpierre.dev/blog/declarative-macos-configurations-with-nix/) (2 years ago)
