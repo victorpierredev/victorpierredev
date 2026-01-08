@@ -10,7 +10,7 @@
 
 ### 📝 My most recent blog posts
 
-- [The urgency for digital sovereignty](https://victorpierre.dev/blog/digital-sovereignty/) (1 day ago)
+- [The urgency for digital sovereignty](https://victorpierre.dev/blog/digital-sovereignty/) (2 days ago)
 - [2025 - Retrospective](https://victorpierre.dev/blog/2025-retrospective/) (2 weeks ago)
 - [Distributed Tracing in Go](https://victorpierre.dev/blog/distributed-tracing-in-go/) (3 months ago)
 - [Stacked git branches with git-spice](https://victorpierre.dev/blog/git-spice/) (7 months ago)
