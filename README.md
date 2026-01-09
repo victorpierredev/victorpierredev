@@ -10,11 +10,11 @@
 
 ### 📝 My most recent blog posts
 
-- [The urgency for digital sovereignty](https://victorpierre.dev/blog/digital-sovereignty/) (2 days ago)
-- [2025 - Retrospective](https://victorpierre.dev/blog/2025-retrospective/) (2 weeks ago)
-- [Distributed Tracing in Go](https://victorpierre.dev/blog/distributed-tracing-in-go/) (3 months ago)
-- [Stacked git branches with git-spice](https://victorpierre.dev/blog/git-spice/) (7 months ago)
-- [2024 - Retrospective](https://victorpierre.dev/blog/2024-retrospective/) (1 year ago)
+- [Cooperation Without Dependency](http://localhost:1313/blog/cooperation-without-dependency/) (3 days ago)
+- [2025 - Retrospective](http://localhost:1313/blog/2025-retrospective/) (2 weeks ago)
+- [Distributed Tracing in Go](http://localhost:1313/blog/distributed-tracing-in-go/) (3 months ago)
+- [Stacked git branches with git-spice](http://localhost:1313/blog/git-spice/) (7 months ago)
+- [2024 - Retrospective](http://localhost:1313/blog/2024-retrospective/) (1 year ago)
 
 ---
 
