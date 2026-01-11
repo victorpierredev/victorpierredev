@@ -10,7 +10,7 @@
 
 ### 📝 My most recent blog posts
 
-- [Cooperation Without Dependency](http://localhost:1313/blog/cooperation-without-dependency/) (4 days ago)
+- [Cooperation Without Dependency](http://localhost:1313/blog/cooperation-without-dependency/) (5 days ago)
 - [2025 - Retrospective](http://localhost:1313/blog/2025-retrospective/) (2 weeks ago)
 - [Distributed Tracing in Go](http://localhost:1313/blog/distributed-tracing-in-go/) (3 months ago)
 - [Stacked git branches with git-spice](http://localhost:1313/blog/git-spice/) (7 months ago)
