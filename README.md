@@ -11,7 +11,7 @@
 ### 📝 My most recent blog posts
 
 - [Cooperation Without Dependency](https://victorpierre.dev/blog/cooperation-without-dependency/) (1 week ago)
-- [2025 - Retrospective](https://victorpierre.dev/blog/2025-retrospective/) (3 weeks ago)
+- [2025 - Retrospective](https://victorpierre.dev/blog/2025-retrospective/) (4 weeks ago)
 - [Distributed Tracing in Go](https://victorpierre.dev/blog/distributed-tracing-in-go/) (3 months ago)
 - [Stacked git branches with git-spice](https://victorpierre.dev/blog/git-spice/) (7 months ago)
 - [2024 - Retrospective](https://victorpierre.dev/blog/2024-retrospective/) (1 year ago)
