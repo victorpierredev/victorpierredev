@@ -10,7 +10,7 @@
 
 ### 📝 My most recent blog posts
 
-- [Dual-Writes and the Outbox Pattern](https://victorpierre.dev/blog/transactional-outbox-pattern/) (4 days ago)
+- [Dual-Writes and the Outbox Pattern](https://victorpierre.dev/blog/transactional-outbox-pattern/) (5 days ago)
 - [Cooperation Without Dependency](https://victorpierre.dev/blog/cooperation-without-dependency/) (2 weeks ago)
 - [2025 - Retrospective](https://victorpierre.dev/blog/2025-retrospective/) (1 month ago)
 - [Distributed Tracing in Go](https://victorpierre.dev/blog/distributed-tracing-in-go/) (3 months ago)
