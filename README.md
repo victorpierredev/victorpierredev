@@ -10,7 +10,7 @@
 
 ### 📝 My most recent blog posts
 
-- [Building a Personal Knowledge System with Obsidian](https://victorpierre.dev/blog/personal-knowledge-system/) (6 days ago)
+- [Building a Personal Knowledge System with Obsidian](https://victorpierre.dev/blog/personal-knowledge-system/) (1 week ago)
 - [Dual-Writes and the Outbox Pattern](https://victorpierre.dev/blog/transactional-outbox-pattern/) (1 week ago)
 - [Cooperation Without Dependency](https://victorpierre.dev/blog/cooperation-without-dependency/) (3 weeks ago)
 - [2025 - Retrospective](https://victorpierre.dev/blog/2025-retrospective/) (1 month ago)
