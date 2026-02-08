@@ -11,7 +11,7 @@
 ### 📝 My most recent blog posts
 
 - [Building a Personal Knowledge System with Obsidian](http://localhost:1313/blog/personal-knowledge-system/) (2 weeks ago)
-- [Dual-Writes and the Outbox Pattern](http://localhost:1313/blog/transactional-outbox-pattern/) (2 weeks ago)
+- [Dual-Writes and the Outbox Pattern](http://localhost:1313/blog/transactional-outbox-pattern/) (3 weeks ago)
 - [Cooperation Without Dependency](http://localhost:1313/blog/cooperation-without-dependency/) (1 month ago)
 - [2025 - Retrospective](http://localhost:1313/blog/2025-retrospective/) (1 month ago)
 - [Distributed Tracing in Go](http://localhost:1313/blog/distributed-tracing-in-go/) (4 months ago)
