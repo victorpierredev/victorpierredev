@@ -10,7 +10,7 @@
 
 ### 📝 My most recent blog posts
 
-- [Building a Personal Knowledge System with Obsidian](http://localhost:1313/blog/personal-knowledge-system/) (2 months ago)
+- [Building a Personal Knowledge System with Obsidian](http://localhost:1313/blog/personal-knowledge-system/) (3 months ago)
 - [Dual-Writes and the Outbox Pattern](http://localhost:1313/blog/transactional-outbox-pattern/) (3 months ago)
 - [Cooperation Without Dependency](http://localhost:1313/blog/cooperation-without-dependency/) (3 months ago)
 - [2025 - Retrospective](http://localhost:1313/blog/2025-retrospective/) (4 months ago)
