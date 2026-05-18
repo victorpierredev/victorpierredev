@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Victor Pierre</h1>
-<h3 align="center">A passionate Software Engineer based in Canada 🇨🇦</h3>
 
 - I work as a Backend Software Engineer.
 - 🖥 My website is https://victorpierre.dev
