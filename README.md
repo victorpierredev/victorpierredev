@@ -9,11 +9,11 @@
 
 ### 📝 My most recent blog posts
 
-- [Building a Personal Knowledge System with Obsidian](http://localhost:1314/blog/personal-knowledge-system/) (5 months ago)
-- [Dual-Writes and the Outbox Pattern](http://localhost:1314/blog/transactional-outbox-pattern/) (5 months ago)
-- [Cooperation Without Dependency](http://localhost:1314/blog/cooperation-without-dependency/) (5 months ago)
-- [2025 - Retrospective](http://localhost:1314/blog/2025-retrospective/) (6 months ago)
-- [Distributed Tracing in Go](http://localhost:1314/blog/distributed-tracing-in-go/) (8 months ago)
+- [Building a Personal Knowledge System with Obsidian](https://victorpierre.dev/blog/personal-knowledge-system/) (5 months ago)
+- [Dual-Writes and the Outbox Pattern](https://victorpierre.dev/blog/transactional-outbox-pattern/) (5 months ago)
+- [Cooperation Without Dependency](https://victorpierre.dev/blog/cooperation-without-dependency/) (5 months ago)
+- [2025 - Retrospective](https://victorpierre.dev/blog/2025-retrospective/) (6 months ago)
+- [Distributed Tracing in Go](https://victorpierre.dev/blog/distributed-tracing-in-go/) (8 months ago)
 
 ---
 
