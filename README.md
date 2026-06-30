@@ -9,7 +9,7 @@
 
 ### 📝 My most recent blog posts
 
-- [Aligning Go struct fields to save memory](https://victorpierre.dev/blog/struct-field-alignment/) (1 day ago)
+- [Aligning Go struct fields to save memory](https://victorpierre.dev/blog/struct-field-alignment/) (2 days ago)
 - [Building a Personal Knowledge System with Obsidian](https://victorpierre.dev/blog/personal-knowledge-system/) (5 months ago)
 - [Dual-Writes and the Outbox Pattern](https://victorpierre.dev/blog/transactional-outbox-pattern/) (5 months ago)
 - [Cooperation Without Dependency](https://victorpierre.dev/blog/cooperation-without-dependency/) (5 months ago)
