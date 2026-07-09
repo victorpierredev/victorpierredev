@@ -9,11 +9,11 @@
 
 ### 📝 My most recent blog posts
 
-- [Aligning Go struct fields to save memory](https://victorpierre.dev/blog/struct-field-alignment/) (1 week ago)
-- [Building a Personal Knowledge System with Obsidian](https://victorpierre.dev/blog/personal-knowledge-system/) (5 months ago)
-- [Dual-Writes and the Outbox Pattern](https://victorpierre.dev/blog/transactional-outbox-pattern/) (5 months ago)
-- [Cooperation Without Dependency](https://victorpierre.dev/blog/cooperation-without-dependency/) (6 months ago)
-- [2025 - Retrospective](https://victorpierre.dev/blog/2025-retrospective/) (6 months ago)
+- [Aligning Go struct fields to save memory](http://localhost:1313/blog/struct-field-alignment/) (1 week ago)
+- [Building a Personal Knowledge System with Obsidian](http://localhost:1313/blog/personal-knowledge-system/) (5 months ago)
+- [Dual-Writes and the Outbox Pattern](http://localhost:1313/blog/transactional-outbox-pattern/) (5 months ago)
+- [Cooperation Without Dependency](http://localhost:1313/blog/cooperation-without-dependency/) (6 months ago)
+- [2025 - Retrospective](http://localhost:1313/blog/2025-retrospective/) (6 months ago)
 
 ---
 
