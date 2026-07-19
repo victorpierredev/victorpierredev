@@ -9,8 +9,8 @@
 
 ### 📝 My most recent blog posts
 
-- [What We Lose When We Build Alone](https://victorpierre.dev/blog/what-we-lose-when-we-build-alone/) (4 days ago)
-- [Aligning Go struct fields to save memory](https://victorpierre.dev/blog/struct-field-alignment/) (2 weeks ago)
+- [What We Lose When We Build Alone](https://victorpierre.dev/blog/what-we-lose-when-we-build-alone/) (5 days ago)
+- [Aligning Go struct fields to save memory](https://victorpierre.dev/blog/struct-field-alignment/) (3 weeks ago)
 - [Building a Personal Knowledge System with Obsidian](https://victorpierre.dev/blog/personal-knowledge-system/) (5 months ago)
 - [Dual-Writes and the Outbox Pattern](https://victorpierre.dev/blog/transactional-outbox-pattern/) (6 months ago)
 - [Cooperation Without Dependency](https://victorpierre.dev/blog/cooperation-without-dependency/) (6 months ago)
