@@ -10,7 +10,7 @@
 ### 📝 My most recent blog posts
 
 - [What We Lose When We Build Alone](https://victorpierre.dev/blog/what-we-lose-when-we-build-alone/) (1 month ago)
-- [Aligning Go struct fields to save memory](https://victorpierre.dev/blog/struct-field-alignment/) (1 month ago)
+- [Aligning Go struct fields to save memory](https://victorpierre.dev/blog/struct-field-alignment/) (2 months ago)
 - [Building a Personal Knowledge System with Obsidian](https://victorpierre.dev/blog/personal-knowledge-system/) (7 months ago)
 - [Dual-Writes and the Outbox Pattern](https://victorpierre.dev/blog/transactional-outbox-pattern/) (7 months ago)
 - [Cooperation Without Dependency](https://victorpierre.dev/blog/cooperation-without-dependency/) (7 months ago)
