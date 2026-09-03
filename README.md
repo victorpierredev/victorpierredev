@@ -9,7 +9,7 @@
 
 ### 📝 My most recent blog posts
 
-- [Code Comprehension in the Age of AI](https://victorpierre.dev/blog/code-comprehension-in-the-age-of-ai/) (3 days ago)
+- [Code Comprehension in the Age of AI](https://victorpierre.dev/blog/code-comprehension-in-the-age-of-ai/) (4 days ago)
 - [What We Lose When We Build Alone](https://victorpierre.dev/blog/what-we-lose-when-we-build-alone/) (1 month ago)
 - [Aligning Go struct fields to save memory](https://victorpierre.dev/blog/struct-field-alignment/) (2 months ago)
 - [Building a Personal Knowledge System with Obsidian](https://victorpierre.dev/blog/personal-knowledge-system/) (7 months ago)
