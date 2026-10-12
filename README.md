@@ -10,7 +10,7 @@
 ### 📝 My most recent blog posts
 
 - [Code Comprehension in the Age of AI](https://victorpierre.dev/blog/code-comprehension-in-the-age-of-ai/) (1 month ago)
-- [What We Lose When We Build Alone](https://victorpierre.dev/blog/what-we-lose-when-we-build-alone/) (2 months ago)
+- [What We Lose When We Build Alone](https://victorpierre.dev/blog/what-we-lose-when-we-build-alone/) (3 months ago)
 - [Aligning Go struct fields to save memory](https://victorpierre.dev/blog/struct-field-alignment/) (3 months ago)
 - [Building a Personal Knowledge System with Obsidian](https://victorpierre.dev/blog/personal-knowledge-system/) (8 months ago)
 - [Dual-Writes and the Outbox Pattern](https://victorpierre.dev/blog/transactional-outbox-pattern/) (8 months ago)
