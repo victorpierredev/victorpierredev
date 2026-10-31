@@ -9,7 +9,7 @@
 
 ### 📝 My most recent blog posts
 
-- [Three Ways to Make Go Handlers Idempotent](https://victorpierre.dev/blog/idempotent-go-handlers/) (4 days ago)
+- [Three Ways to Make Go Handlers Idempotent](https://victorpierre.dev/blog/idempotent-go-handlers/) (5 days ago)
 - [Code Comprehension in the Age of AI](https://victorpierre.dev/blog/code-comprehension-in-the-age-of-ai/) (2 months ago)
 - [What We Lose When We Build Alone](https://victorpierre.dev/blog/what-we-lose-when-we-build-alone/) (3 months ago)
 - [Aligning Go struct fields to save memory](https://victorpierre.dev/blog/struct-field-alignment/) (4 months ago)
