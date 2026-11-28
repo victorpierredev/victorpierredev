@@ -10,7 +10,7 @@
 ### 📝 My most recent blog posts
 
 - [Three Ways to Make Go Handlers Idempotent](https://victorpierre.dev/blog/idempotent-go-handlers/) (1 month ago)
-- [Code Comprehension in the Age of AI](https://victorpierre.dev/blog/code-comprehension-in-the-age-of-ai/) (2 months ago)
+- [Code Comprehension in the Age of AI](https://victorpierre.dev/blog/code-comprehension-in-the-age-of-ai/) (3 months ago)
 - [What We Lose When We Build Alone](https://victorpierre.dev/blog/what-we-lose-when-we-build-alone/) (4 months ago)
 - [Aligning Go struct fields to save memory](https://victorpierre.dev/blog/struct-field-alignment/) (5 months ago)
 - [Building a Personal Knowledge System with Obsidian](https://victorpierre.dev/blog/personal-knowledge-system/) (10 months ago)
